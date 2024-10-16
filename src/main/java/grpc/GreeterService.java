@@ -1,10 +1,10 @@
-package com.grpc;
+package grpc;
 
-import com.grpc.Config.HelloRequest;
-import com.grpc.Config.HelloReply;
-import com.grpc.GreeterGrpc.GreeterImplBase;
+
+import grpc.Config.HelloReply;
+import grpc.Config.HelloRequest;
+import grpc.GreeterGrpc.GreeterImplBase;
 import io.grpc.stub.StreamObserver;
-
 
 public class GreeterService extends GreeterImplBase {
     @Override

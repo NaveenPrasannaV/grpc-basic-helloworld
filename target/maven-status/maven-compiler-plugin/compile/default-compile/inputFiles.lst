@@ -1,6 +1,6 @@
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\com\grpc\Config.java
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\com\grpc\GreeterGrpc.java
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\com\grpc\GrpcClient.java
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\org\example\Main.java
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\com\grpc\GrpcServer.java
-C:\Users\srelavan\gRPC_Project\grpcPoc\src\main\java\com\grpc\GreeterService.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/grpc/Config.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/grpc/GrpcServer.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/grpc/GreeterService.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/org/example/Main.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/grpc/GreeterGrpc.java
+/usr/local/google/home/naveenpv/IdeaProjects/POC/grpc-basic-helloworld-poc/src/main/java/grpc/GrpcClient.java
